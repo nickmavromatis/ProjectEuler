@@ -4,3 +4,11 @@ def problem001(n):
     multiples = [num for num in range(n) if num % 3 == 0 or num % 5 == 0]
     return sum(multiples)
 print(problem001(1000))
+
+
+
+
+
+
+
+
